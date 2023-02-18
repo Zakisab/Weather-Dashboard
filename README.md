@@ -25,13 +25,10 @@ SO THAT I can plan a trip accordingly
     * The date
     * An icon representation of weather conditions
     * The temperature
-    * The humidity
-    * The wind speed
   * When a user view future weather conditions for that city they are presented with a 5-day forecast that displays:
     * The date
     * An icon representation of weather conditions
     * The temperature
-    * The humidity
   * When a user click on a city in the search history they are again presented with current and future conditions for that city
 
 
@@ -41,9 +38,9 @@ The following image shows the web application's appearance and functionality:
 
 ## Review
 
-* 
+* https://zakisab.github.io/Weather-Dashboard/
 
-* The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
+* https://github.com/Zakisab/Weather-Dashboard
 
 ---
 
