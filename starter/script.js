@@ -1,9 +1,9 @@
 //global variables
-var apiKey = "4e5dbe7db2b5e9c8b47fa40b691443d5"
+var apiKey = "070029ea04f217d781d16e739055a5b4"
 var city = "raleigh"
 var currentConditions = "https://api.openweathermap.org/data/2.5/weather?appid="
 var fiveDay =
-  "https://api.openweathermap.org/data/2.5/forecast?4e5dbe7db2b5e9c8b47fa40b691443d5q={city name},{country code}"
+  "https://api.openweathermap.org/data/2.5/forecast?070029ea04f217d781d16e739055a5b4q={city name},{country code}"
 var uvIndex =
   "https://api.openweathermap.org/data/2.5/uvi?appid={appid}&lat={lat}&lon={lon}"
 var searchedArr = JSON.parse(localStorage.getItem("searchedItems")) || [];

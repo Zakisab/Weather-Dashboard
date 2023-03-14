@@ -1,0 +1,67 @@
+/* header{
+    font-size: 300%;
+    background-color: gray;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+
+.card{
+    width: 30%;
+    height: 30%;
+    justify-content: center;
+}
+ul {
+    list-style-type: none;
+  }
+.container{
+    display: flex;
+   justify-content: flex-start;
+
+}
+
+#results-container{
+    background-color: whitesmoke;
+}
+
+#five-day{
+justify-content: center;
+} */
+
+
+.main{
+    width: 80%;
+    margin: auto;
+}
+.left{
+    width: 100%;
+}
+
+.left-search{
+    width: 50%;
+    margin: auto;
+}
+#current-weather{
+    border: 1px solid black;
+    height: 200px;
+}
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    background-color: cyan;
+}
+.right{
+    width: 100%;
+    background-image: url('img/clouds.gif')
+}
